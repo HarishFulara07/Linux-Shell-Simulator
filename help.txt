@@ -1,0 +1,51 @@
+** Shell developed by : Harish Fulara (2014143) **
+
+** This is a basic LINUX shell which supports the following basic commands ** 
+
+1. cd : * Change from one directory to another directory.
+	* Supports both relative as well as absolute paths.
+	
+2. cd .. : Go back to previous directory in current directory hierarchy.
+
+3. cd ~ : Move directly to root directory.
+
+4. history : * Display list of last 100 commands executed by the user.
+	     * Display recent commands executed by the user using up and down arrow keys.
+	     * Predict commands using TAB key.
+	     
+5. history !n : Refer to command line having event number n.
+
+6. kill -l : * kill command send a signal to a process.
+	     * kill -l command list all such signals.
+
+7. kill -9 <pid> or kill SIGKILL <pid> : kill a process with process ID <pid> forcefully.
+
+8. kill -15 <pid> or kill SIGTERM <pid> : kill a process with process ID <pid> once it successfully terminates.
+
+9. pwd : Tell present working directory.
+
+10. whoami : Tell username.
+
+11. hostname : Tell machine name / computer name.
+
+12. clear : Clear the current shell window.
+
+13. reset : Reset the complete shell.
+
+14. ls : list directory contents.
+
+15. ls -a : list all directory contents ( do not ignore entries starting with . ).
+
+16. ls -l : list directory contents in long listing format
+
+17. ll : list all directory contents in long listing format( do not ignore entries starting with . ).
+
+18. < : Redirects standard input to a file.
+
+19. > : Redirects standard output to a file.
+
+20. cat : concatenate files and print on the standard output.
+
+21. wc : print newline, word, character and byte counts for each file.
+
+22. sort : sort lines of a text file.
