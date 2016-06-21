@@ -12,7 +12,7 @@
    
 <h3>Commands</h3>
 
-The simulator supports the following Linux commands:
+The code simulates the following Linux commands:
 <br>
 <br>
 1. reset
