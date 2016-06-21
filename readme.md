@@ -1,6 +1,6 @@
 <h1>Linux Shell Simulator</h1>
 
-<h3>How to run</h3>
+<h3><ul>How to run</ul></h3>
 
 1. Type the following command in linux shell to execute the complete project.
 
