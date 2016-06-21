@@ -1,6 +1,6 @@
 <h1>Linux Shell Simulator</h1>
 
-<h3><u>How to run</u></h3>
+<h3>How to run</h3>
 
 1. Type the following command in linux shell to execute the complete project.
 
@@ -14,21 +14,35 @@
 
 The simulator supports the following Linux commands:
 <br>
-1.
 <br>
-2.
+1. reset
 <br>
-3.
+2. clear
 <br>
-4.
+3. ls
 <br>
-5.
+4. ll
 <br>
-6.
+5. pwd
 <br>
-7.
+6. whoami
 <br>
-8.
+7. cd
 <br>
-9.
+8. redirecting stdin
 <br>
+9. redirecting stdout
+<br>
+10. history
+<br>
+11. kill
+<br>
+12. hostname
+<br>
+13. cat
+<br>
+14. wc
+<br>
+15. sort
+<br>
+16. help
