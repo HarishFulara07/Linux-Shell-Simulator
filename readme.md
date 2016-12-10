@@ -2,7 +2,7 @@
 
 <h3>How to run</h3>
 
-1. Clone or download the repository. **cd** into the cloned or dowloaded repository. 
+1. Clone or download the repository. **cd** into the cloned or downloaded repository. 
 
 2. Type the following command in linux shell to build the complete project.
 
